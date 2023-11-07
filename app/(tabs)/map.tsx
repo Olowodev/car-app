@@ -12,7 +12,7 @@ import axios from 'axios'
 const GOOGLE_MAPS_APIKEY = 'AIzaSyAQ7F3uA0z_MVcwIHwDtfJfeY9iNbWTbyY'
 const public_token = 'pk.eyJ1Ijoib2xvd29hIiwiYSI6ImNsZjNyMndhcTBnNm8zcm50cmFkZzI1NXAifQ.sUHuNAw9DIe1ATZcaV_ETg'
 const map_id = 'a5c876dd7305d527'
-const mapStyles = [
+export const mapStyles = [
   {
     "elementType": "geometry",
     "stylers": [
@@ -256,7 +256,7 @@ export default function Map() {
           apikey={GOOGLE_MAPS_APIKEY}
           strokeWidth={4}
           precision='high'
-          strokeColor='hotpink'
+          strokeColor='#0AB051'
           onReady={result => {
             console.log(result.legs[0].steps.length)
             mapView.current?.fitToCoordinates(result.coordinates, {

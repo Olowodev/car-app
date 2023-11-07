@@ -9,7 +9,7 @@ export default function Profile() {
       <View>
         <View>
             <View>
-                <Image source={{uri: 'https://picsum.photos'}} />
+                <Image source={{uri: 'https://picsum.photos/200'}} />
             </View>
             <View>
                 <Text>Adebayo</Text>
