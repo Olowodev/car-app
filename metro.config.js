@@ -2,9 +2,11 @@
 const { getDefaultConfig } = require('expo/metro-config');
 
 /** @type {import('expo/metro-config').MetroConfig} */
-const config = getDefaultConfig(__dirname, {
-  // [Web-only]: Enables CSS support in Metro.
-  isCSSEnabled: true,
-});
+const config = {
+  resolver: {
+    sourceExts: ['js', 'jsx', 'json', 'ts', 'tsx', 'cjs', 'mjs', 'glb'],
+    assetExts: ['glb', 'gltf', 'png', 'jpg', 'mtl', 'obj', 'ttf']
+  }
+};
 
 module.exports = config;
