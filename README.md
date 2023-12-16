@@ -4,6 +4,10 @@ This is a react native mobile application that allows users manage their electri
 
 ## Here's the result
 
+
+https://github.com/Olowodev/car-app/assets/99045599/2660c0d0-0cbc-4463-8ed4-eec9d15a120a
+
+
 <br>
 
 ## Static shots of the app screens
