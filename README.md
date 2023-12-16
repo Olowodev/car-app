@@ -12,10 +12,10 @@ https://github.com/Olowodev/car-app/assets/99045599/2660c0d0-0cbc-4463-8ed4-eec9
 
 ## Static shots of the app screens
 
-<img src="./shots/Screenshot_1672317468.png" alt="furnistore homepage" style="width: 300px;margin-right: 10px;" />
-<img src="./shots/Screenshot_1670544411.png" alt="furnistore homepage" style="width: 300px;margin-right: 10px;" />
-<img src="./shots/Screenshot_1670578457.png" alt="furnistore cart page" style="width: 300px;margin-right: 10px;" />
-<img src="./shots/Screenshot_1670542828.png" alt="cart page with swipe to delte" style="width: 300px;" />
+<img src="./assets/images/1D64E7CA-A626-4D25-94B6-4D5E81D974CC.png" alt="furnistore homepage" style="width: 300px;margin-right: 10px;" />
+<img src="./assets/images/383C5C17-4BE7-4F92-9A2C-9C8C25DEB734.png" alt="furnistore homepage" style="width: 300px;margin-right: 10px;" />
+<img src="./assets/images/2B801C8D-4ED7-4E1C-81CE-EDB349552598.png" alt="furnistore cart page" style="width: 300px;margin-right: 10px;" />
+<img src="./assets/images/0F824A89-B718-4BAF-8DEA-4679F48EE9CD.png" alt="cart page with swipe to delte" style="width: 300px;" />
 
 <br>
 
