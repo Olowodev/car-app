@@ -23,7 +23,7 @@ https://github.com/Olowodev/car-app/assets/99045599/2660c0d0-0cbc-4463-8ed4-eec9
 
 - Users are able to lock and unlock their electric vehicle using the app
 - It renders a 3d version of their vehice on the home page
-- It has a built it map and directions system used to locate nearest charging stations
+- It has a built in map and directions system used to locate nearest charging stations
 - It has a screen for monitoring the battery of the vehicle
 - It is also able to give weather updates
 
